@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahijahan Qayoum</h1>
-<h3 align="center">A self-taught Frontend Developer from Kashmir | BCA @ Shoolini | Building with Purpose</h3>
+<h3 align="center">A self-taught Frontend Developer from Jammu & Kashmir | BCA @ Shoolini | Building with Purpose</h3>
 
 ---
 
@@ -56,14 +56,17 @@ I'm **Codevory** — a developer with a vision to build real-world projects with
 
 ### 📊 GitHub Stats
 
-![Shahijahan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codevory&show_icons=true&theme=tokyonight)
+![Shahijahan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codevory&show_icons=true&theme=tokyonight) 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codevory&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🌍 Visitor Badge
+![Visitors](https://komarev.com/ghpvc/?username=codevory&label=Profile%20Views&color=0e75b6&style=flat)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=codevory.codevory)
+
+
 
 ---
 

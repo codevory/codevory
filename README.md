@@ -1,18 +1,78 @@
 <h1 align="center">Hi 👋, I'm Shahijahan Qayoum</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A self-taught Frontend Developer from Kashmir | BCA @ Shoolini | Building with Purpose</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codevory" alt="codevory" /></a> </p>
+---
 
-- 🌱 I’m currently learning **HTML, CSS , Javascript**
+### 🌱 About Me
+I'm **Codevory** — a developer with a vision to build real-world projects with purpose and clean code.
 
-- 📫 How to reach me **shahijahan.codes@gmail.com**
+🚀 I'm currently learning:  
+- `HTML`, `CSS`, and `JavaScript`  
+- Deepening my knowledge of frontend principles  
+- Applying what I learn into real, functional projects  
 
-<h3 align="left">Connect with me:</h3>
+🔭 I’m passionate about:  
+- Solving real-world problems  
+- Helping others learn & earn with zero investment  
+- Coding with consistency, curiosity, and creativity  
+
+🧠 Founder of **@Codevory** — a personal initiative to empower others with free tools, guides, and side hustle strategies.
+
+---
+
+### 🔗 Connect with Me
+- 📧 shahijahan.codes@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shahijahan-pedhar/)  
+- 🧠 [My GitHub Projects](https://github.com/codevory)  
+
+---
+
+### 💻 Languages and Tools
 <p align="left">
-<a href="https://linkedin.com/in/shahijahan-pedhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahijahan-pedhar" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codevory&show_icons=true&locale=en&layout=compact" alt="codevory" /></p>
+### 📌 Pinned Projects
+
+- 🎯 **Portfolio Website**  
+  _A clean, responsive landing page to showcase my work._  
+  [View Code](https://github.com/codevory/portfolio)  
+
+- 🧮 **Calculator UI**  
+  _Built with HTML & CSS — JavaScript logic coming soon._  
+  [View Code](https://github.com/codevory/calculator-ui)
+
+- 🔐 **Login/Signup Glass UI**  
+  _Glassmorphic forms with floating labels, fully mobile responsive._  
+  [View Code](https://github.com/codevory/login-signup-ui)
+
+---
+
+### 📊 GitHub Stats
+
+![Shahijahan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codevory&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codevory&layout=compact&theme=tokyonight)
+
+---
+
+### 🌍 Visitor Badge
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=codevory.codevory)
+
+---
+
+### 🤝 Let’s Build Together
+
+I’m open to:
+- 💻 Collaborating on frontend projects
+- 🌱 Internship or part-time dev opportunities
+- 🧩 Building tools for education, productivity, or AI-assisted workflows
+
+📬 Reach me at: **shahijahan.codes@gmail.com**  
+🛠️ Let’s turn ideas into innovation — together.

@@ -46,11 +46,11 @@ I'm **Codevory** — a developer with a vision to build real-world projects with
 
 - 🧮 **Calculator UI**  
   _Built with HTML & CSS — JavaScript logic coming soon._  
-  [View Code](https://github.com/codevory/calculator-ui)
+  [View Code](https://github.com/codevory/calculator-ui-html-css)
 
 - 🔐 **Login/Signup Glass UI**  
   _Glassmorphic forms with floating labels, fully mobile responsive._  
-  [View Code](https://github.com/codevory/login-signup-ui)
+  [View Code](https://github.com/codevory/Signup-Form-UI)
 
 ---
 

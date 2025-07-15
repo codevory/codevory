@@ -42,7 +42,7 @@ I'm **Codevory** — a developer with a vision to build real-world projects with
 
 - 🎯 **Portfolio Website**  
   _A clean, responsive landing page to showcase my work._  
-  [View Code](https://github.com/codevory/portfolio)  
+  [View Code](https://github.com/codevory/portfolio-landing-page)  
 
 - 🧮 **Calculator UI**  
   _Built with HTML & CSS — JavaScript logic coming soon._  

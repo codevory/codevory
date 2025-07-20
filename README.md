@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahijahan Pedhar</h1>
-<h3 align="center">A self-taught Frontend Developer from Jammu & Kashmir | BCA @ Shoolini | Building with Purpose</h3>
+<h3 align="center">A self-taught Aspiring FullStack Developer from Jammu & Kashmir | BCA @ Shoolini | Building with Purpose</h3>
 
 ---
 

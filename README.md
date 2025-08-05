@@ -63,7 +63,7 @@ I'm **Codevory** — a developer with a vision to build real-world projects with
 ![codevory's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codevory&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <hr>
 ### 🌍 Visitor Badge
-![Visitors](https://komarev.com/ghpvc/?username=codevory&label=Profile%20Views&color=0e75b6&style=flat)
+[![Visitors](https://komarev.com/ghpvc/?username=codevory&label=Profile%20Views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=codevory&label=Profile%20Views&color=0e75b6&style=flat)
 
 
 

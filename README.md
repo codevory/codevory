@@ -85,8 +85,6 @@ iam currently practicing javascript<br>iam open to collebrations & interns<br>ia
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=codevory&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=codevory&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -94,8 +92,6 @@ iam currently practicing javascript<br>iam open to collebrations & interns<br>ia
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/codevory?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
-
 
 
 

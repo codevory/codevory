@@ -56,13 +56,11 @@ I'm **Codevory** — a developer with a vision to build real-world projects with
 
 ### 📊 GitHub Stats
 
-![Shahijahan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codevory&show_icons=true&theme=tokyonight) 
+![codevory's Stats](https://github-readme-stats.vercel.app/api?username=codevory&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codevory&layout=compact&theme=tokyonight)
-
+![codevory's Streak](https://github-readme-streak-stats.herokuapp.com/?user=codevory&theme=vue-dark&hide_border=true)
 ---
-
-### 🌍 Visitor Badge
+![codevory's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codevory&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)### 🌍 Visitor Badge
 ![Visitors](https://komarev.com/ghpvc/?username=codevory&label=Profile%20Views&color=0e75b6&style=flat)
 
 

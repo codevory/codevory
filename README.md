@@ -60,7 +60,9 @@ I'm **Codevory** — a developer with a vision to build real-world projects with
 
 ![codevory's Streak](https://github-readme-streak-stats.herokuapp.com/?user=codevory&theme=vue-dark&hide_border=true)
 ---
-![codevory's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codevory&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)### 🌍 Visitor Badge
+![codevory's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codevory&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<hr>
+### 🌍 Visitor Badge
 ![Visitors](https://komarev.com/ghpvc/?username=codevory&label=Profile%20Views&color=0e75b6&style=flat)
 
 

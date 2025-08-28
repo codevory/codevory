@@ -131,7 +131,6 @@ Whether you want to discuss a project, share learning resources, or just chat ab
 
 **📧 Primary:** [shahijahan.codes@gmail.com](mailto:shahijahan.codes@gmail.com)  
 **💬 Discord:** shahijahan#3847  
-**🔗 All Links:** [linktr.ee/codevory](https://linktr.ee/codevory)
 
 ### 💡 **Always ready for:**
 - 🚀 New project collaborations

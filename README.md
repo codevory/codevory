@@ -1,21 +1,40 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shahijahan%20Pedhar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Full-Stack%20Developer&descAlignY=55&descAlign=50" width="100%" />
+
 <div align="center">
-  
-# 👋 Hi, I'm Shahijahan Pedhar
 
-### 🚀 Aspiring Full-Stack Developer | 🎓 BCA @ Shoolini University
-### 💡 Building with Purpose • Learning by Doing • Shipping Small Wins
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=700&lines=Frontend+Developer+%F0%9F%92%BB;JavaScript+%7C+React+%7C+Node.js+%E2%9A%A1;Building+Amazing+Projects+%F0%9F%9A%80;Open+to+Collaborations+%F0%9F%A4%9D;Code+%E2%80%A2+Create+%E2%80%A2+Innovate+%F0%9F%8C%B1" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+in+Making;JavaScript+%7C+HTML+%7C+CSS;Building+Real-World+Projects;Open+to+Collaborations!" alt="Typing SVG" />
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codevory&style=for-the-badge&color=FF6B6B&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/codevory?style=for-the-badge&color=FF6B6B&labelColor=000&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/codevory?style=for-the-badge&color=FF6B6B&labelColor=000&label=Total+Stars" alt="GitHub Stars" />
+</p>
 
 ---
 
-### 🌐 **Let's Connect**
+### 🌐 **Connect With Me**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahijahan.codes@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahijahan-pedhar/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codevory)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/shahijahanq)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codevory)
+<p align="center">
+<a href="mailto:shahijahan.codes@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+</a>
+<a href="https://www.linkedin.com/in/shahijahan-pedhar/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+</a>
+<a href="https://github.com/codevory">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" />
+</a>
+<a href="https://x.com/shahijahanq">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://instagram.com/codevory">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
+</a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
@@ -42,27 +61,38 @@ const shahijahan = {
 - 🚀 **Building:** Small but functional projects to solidify learning
 - 🤝 **Seeking:** Collaboration opportunities and internships
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
 ## 🛠️ **Tech Arsenal**
 
 <div align="center">
 
-### **Languages & Technologies**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### **🔥 Core Technologies**
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,typescript" alt="Core Tech" />
+</p>
 
-### **Tools & Environment**
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+### **⚡ Tools & Environment**
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vercel,netlify" alt="Tools" />
+</p>
 
-### **Learning Next**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### **🌱 Learning & Exploring**
+<p>
+<img src="https://skillicons.dev/icons?i=tailwind,nextjs,firebase,mongodb,express,python" alt="Learning" />
+</p>
+
+<img src="https://skillicons.dev/icons?i=linux,docker,aws,graphql,redux,sass" alt="Future Learning" />
+
+### **⚙️ Development Environment**
+![Windows](https://img.shields.io/badge/Windows_11-0078d4?style=flat-square&logo=windows11&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=microsoftedge&logoColor=white)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
@@ -72,52 +102,148 @@ const shahijahan = {
 
 <div align="center">
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🍕 [**Food Ordering Platform**](https://github.com/codevory/food-ordering-platform) | Complete food ordering system with cart, checkout & tracking | HTML, CSS, JS | 🚧 Active |
-| 💼 [**Portfolio Landing Page**](https://github.com/codevory/portfolio-landing-page) | Clean, responsive showcase of my work | HTML, CSS | ✅ Complete |
-| 🧮 [**Calculator UI**](https://github.com/codevory/calculator-ui-html-css) | Modern calculator with glassmorphism design | HTML, CSS | 🔄 Enhancing |
-| 🔐 [**Login/Signup Glass UI**](https://github.com/codevory/Signup-Form-UI) | Beautiful forms with floating labels & glass effect | HTML, CSS | ✅ Complete |
+<table>
+<tr>
+<td width="50%">
+
+### 🍕 Food Ordering Platform
+**Complete food ordering system**
+- Cart & Checkout System
+- Order Tracking
+- Payment Integration
+- Responsive Design
+
+`HTML` `CSS` `JavaScript`
+
+[![Repo](https://img.shields.io/badge/Repository-FF6B6B?style=flat-square&logo=github)](https://github.com/codevory/food-ordering-platform)
+[![Live](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat-square&logo=vercel)](https://your-demo-link.com)
+
+</td>
+<td width="50%">
+
+### 💼 Portfolio Landing Page
+**Clean, responsive showcase**
+- Modern UI Design
+- Mobile First
+- Performance Optimized
+- SEO Friendly
+
+`HTML` `CSS` `Vanilla JS`
+
+[![Repo](https://img.shields.io/badge/Repository-FF6B6B?style=flat-square&logo=github)](https://github.com/codevory/portfolio-landing-page)
+[![Live](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat-square&logo=vercel)](https://your-demo-link.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧮 Calculator UI
+**Modern glassmorphism calculator**
+- Beautiful Glass Effect
+- Smooth Animations
+- Keyboard Support
+- Scientific Functions
+
+`HTML` `CSS` `JavaScript`
+
+[![Repo](https://img.shields.io/badge/Repository-FF6B6B?style=flat-square&logo=github)](https://github.com/codevory/calculator-ui-html-css)
+[![Live](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat-square&logo=vercel)](https://your-demo-link.com)
+
+</td>
+<td width="50%">
+
+### 🔐 Glass Login/Signup
+**Beautiful authentication forms**
+- Glassmorphism Design
+- Floating Labels
+- Form Validation
+- Mobile Responsive
+
+`HTML` `CSS` `JavaScript`
+
+[![Repo](https://img.shields.io/badge/Repository-FF6B6B?style=flat-square&logo=github)](https://github.com/codevory/Signup-Form-UI)
+[![Live](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat-square&logo=vercel)](https://your-demo-link.com)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 **GitHub Analytics**
+## 📊 **GitHub Analytics & Stats**
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=codevory&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codevory&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=codevory&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=codevory&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats&icon_color=FF6B6B&title_color=FF6B6B&text_color=FFF&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codevory&layout=compact&theme=radical&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages&title_color=FF6B6B&text_color=FFF&bg_color=0D1117" />
 
-### 📈 **Contribution Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codevory&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" width="98%" />
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=codevory&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FFD700&currStreakLabel=FF6B6B&sideLabels=FFF&currStreakNum=FFF&dates=FFF" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codevory&theme=react-dark&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFD700&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="98%" />
+
+### 📈 **Additional Metrics**
+
+<p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codevory&theme=radical" width="98%" />
+</p>
+
+<p>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codevory&theme=radical" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codevory&theme=radical" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codevory&theme=radical" />
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=codevory&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&custom_title=Weekly%20Development%20Breakdown" width="98%" />
+</p>
+
+### 🏆 **GitHub Trophies**
+
+<p>
+<img src="https://github-profile-trophy.vercel.app/?username=codevory&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="98%" />
+</p>
 
 </div>
 
 ---
 
-## 🌟 **What I'm About**
+## 🌟 **What Drives Me**
 
 <div align="center">
+
+<table border="0">
+<tr>
+<td width="50%" align="center">
 
 ### 💭 **Philosophy**
 > *"Code is like poetry; it should be clean, meaningful, and leave a lasting impact."*
 
-### 🎯 **Goals for 2025**
+</td>
+<td width="50%" align="center">
+
+### 🎯 **2025 Goals**
 - 🚀 Launch 5 complete projects
 - 📚 Master React & Node.js
 - 🤝 Contribute to open source
 - 💼 Land first developer role
 - 🌱 Help others learn to code
 
+</td>
+</tr>
+</table>
+
 ### 🤝 **Open to Collaborate On**
-- 🎨 Frontend projects & UI experiments
-- 📱 Responsive web applications
-- 🛠️ Learning & productivity tools
-- 🎯 Real-world problem solutions
+<p>
+<img src="https://img.shields.io/badge/Frontend_Projects-FF6B6B?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/UI_Experiments-4CAF50?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Web_Applications-2196F3?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Open_Source-9C27B0?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
@@ -127,25 +253,28 @@ const shahijahan = {
 
 <div align="center">
 
-### 💌 **I'd love to hear from you!**
+### � **Let's build something amazing together!**
 
-Whether you want to discuss a project, share learning resources, or just chat about code - my inbox is always open.
+<p>
+<a href="mailto:shahijahan.codes@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/shahijahan-pedhar/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/shahijahanq">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://instagram.com/codevory">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</p>
 
-**📧 Primary:** [shahijahan.codes@gmail.com](mailto:shahijahan.codes@gmail.com)  
-**💬 Discord:** shahijahan#3847  
-**🔗 All Links:** [linktr.ee/codevory](https://linktr.ee/codevory)
+**� Open for:** Collaborations • Internships • Freelance Projects • Code Reviews
 
-### 💡 **Always ready for:**
-- 🚀 New project collaborations
-- 📚 Knowledge sharing sessions  
-- 💼 Internship opportunities
-- 🤝 Mentorship connections
+<img src="https://komarev.com/ghpvc/?username=codevory&style=for-the-badge&color=FF6B6B&label=Profile+Views" />
 
 ---
-
-<img src="https://komarev.com/ghpvc/?username=codevory&style=for-the-badge&color=58A6FF" alt="Profile Views" />
-
-### 🚀 **"Building the future, one commit at a time"**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%" />
 

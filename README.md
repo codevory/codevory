@@ -95,34 +95,6 @@ const shahijahan = {
 
 </div>
 
----
-
-## 🌟 **What I'm About**
-
-<div align="center">
-
-### 💭 **Philosophy**
-> *"Code is like poetry; it should be clean, meaningful, and leave a lasting impact."*
-
-### 🎯 **Goals for 2025**
-- 🚀 Launch 5 complete projects
-- 📚 Master React & Node.js
-- 🤝 Contribute to open source
-- 💼 Land first developer role
-- 🌱 Help others learn to code
-
-### 🤝 **Open to Collaborate On**
-- 🎨 Frontend projects & UI experiments
-- 📱 Responsive web applications
-- 🛠️ Learning & productivity tools
-- 🎯 Real-world problem solutions
-
-</div>
-
----
-
-## 📬 **Get In Touch**
-
 <div align="center">
 
 ### 💌 **I'd love to hear from you!**

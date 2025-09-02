@@ -95,7 +95,7 @@ const shahijahan = {
 
 </div>
 
-<div align="center">
+<div>
 
 ### 💌 **I'd love to hear from you!**
 
@@ -105,10 +105,7 @@ Whether you want to discuss a project, share learning resources, or just chat ab
 **💬 Discord:** shahijahan#3847  
 
 ### 💡 **Always ready for:**
-- 🚀 New project collaborations
-- 📚 Knowledge sharing sessions  
-- 💼 Internship opportunities
-- 🤝 Mentorship connections
+- 🚀 New project collaborations 📚 Knowledge sharing sessions   💼 Internship opportunities 🤝 Mentorship connections
 
 ---
 

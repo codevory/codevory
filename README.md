@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Shahijahan Pedhar
 
-### 🚀 Aspiring Full-Stack Developer | 🎓 BCA @ Shoolini University
+### 🚀 Aspiring Full-Stack Developer | 🎓 Bachelors of Computer applications @ Shoolini University
 ### 💡 Building with Purpose • Learning by Doing • Shipping Small Wins
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+in+Making;JavaScript+%7C+HTML+%7C+CSS;Building+Real-World+Projects;Open+to+Collaborations!" alt="Typing SVG" />

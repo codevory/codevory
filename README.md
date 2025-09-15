@@ -27,7 +27,7 @@
 const shahijahan = {
     alias: "Codevory",
     location: "Jammu & Kashmir, India",
-    education: "BCA @ Shoolini University",
+    education: "Bachelors of Computer Applications @ Shoolini University",
     currentFocus: ["Frontend Development", "JavaScript", "UI/UX Design"],
     learning: ["React.js", "Node.js", "Modern CSS"],
     philosophy: "Consistency > Intensity",

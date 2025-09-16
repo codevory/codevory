@@ -104,13 +104,15 @@ Whether you want to discuss a project, share learning resources, or just chat ab
 **📧 Primary:** [shahijahan.codes@gmail.com](mailto:shahijahan.codes@gmail.com)  
 **💬 Discord:** shahijahan#3847  
 
+
 ### 💡 **Always ready for:**
 - 🚀 New project collaborations 📚 Knowledge sharing sessions   💼 Internship opportunities 🤝 Mentorship connections
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=codevory&style=for-the-badge&color=58A6FF" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=codevory&style=for-the-badge&color=58A6FF" alt="Profile Views" /> <br>
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/shahijahan01) 
 
 ### 🚀 **"Building the future, one commit at a time"**
-
 </div>
+  

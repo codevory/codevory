@@ -113,6 +113,6 @@ Whether you want to discuss a project, share learning resources, or just chat ab
 <img src="https://komarev.com/ghpvc/?username=codevory&style=for-the-badge&color=58A6FF" alt="Profile Views" /> <br>
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/shahijahan01) 
 
-### 🚀 **"Building the future, one commit at a time"**
+### 🚀 **Building the future, one commit at a time**
 </div>
   

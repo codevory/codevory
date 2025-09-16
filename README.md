@@ -74,7 +74,7 @@ const shahijahan = {
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| 🍕 [**Food Ordering Platform**](https://github.com/codevory/food-ordering-platform) | Complete food ordering system with cart, checkout & tracking | HTML, CSS, JS | 🚧 Active |
+| 🍕 [**Food Ordering Platform**](https://github.com/codevory/food-ordering-platform) | Complete food ordering system with cart, checkout & tracking | HTML, CSS, JS | ✅ Complete |
 | 💼 [**Portfolio Landing Page**](https://github.com/codevory/portfolio-landing-page) | Clean, responsive showcase of my work | HTML, CSS | ✅ Complete |
 | 🧮 [**Calculator UI**](https://github.com/codevory/calculator-ui-html-css) | Modern calculator with glassmorphism design | HTML, CSS | 🔄 Enhancing |
 | 🔐 [**Login/Signup Glass UI**](https://github.com/codevory/Signup-Form-UI) | Beautiful forms with floating labels & glass effect | HTML, CSS | ✅ Complete |

@@ -100,7 +100,7 @@ const shahijahan = {
 Whether you want to discuss a project, share learning resources, or just chat about code - my inbox is always open.
 
 **📧 Primary:** [shahijahan.codes@gmail.com](mailto:shahijahan.codes@gmail.com)  
-**💬 Discord:** shahijahan#3847  
+**💬 Discord:** soon 
 
 
 ### 💡 **Always ready for:**

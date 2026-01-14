@@ -79,23 +79,9 @@ const shahijahan = {
 
 </div>
 
----
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=codevory&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codevory&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=codevory&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
-
-
-</div>
-
 <div>
-
-### 💌 **I'd love to hear from you!**
+<hr>
+<h2>💌 I'd love to hear from you!</h2>
 
 Whether you want to discuss a project, share learning resources, or just chat about code - my inbox is always open.
 

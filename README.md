@@ -28,8 +28,8 @@ const shahijahan = {
     alias: "Codevory",
     location: "Jammu & Kashmir, India",
     education: "Bachelors of Computer Applications @ Shoolini University",
-    currentFocus: ["Frontend Development", "JavaScript", "UI/UX Design"],
-    learning: ["React.js", "Node.js", "Modern CSS"],
+    currentFocus: ["Frontend Development", "JavaScript","React", "UI/UX Design"],
+    Next: ["Typescript", "Node.js", "Db"],
     philosophy: "Consistency > Intensity",
     openTo: ["Collaborations", "Internships", "Freelance Projects"],
     motto: "Learning by building real, useful projects"
@@ -67,32 +67,12 @@ const shahijahan = {
 
 </div>
 
----
-
-## 🎨 **Featured Projects**
-
-<div align="center">
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🍕 [**Food Ordering Platform**](https://github.com/codevory/food-ordering-platform) | Complete food ordering system with cart, checkout & tracking | HTML, CSS, JS | ✅ Complete |
-
-</div>
-
 <div>
 <hr>
 <h2>💌 I'd love to hear from you!</h2>
 
-Whether you want to discuss a project, share learning resources, or just chat about code - my inbox is always open.
-
-**📧 Primary:** [shahijahan.codes@gmail.com](mailto:shahijahan.codes@gmail.com)  
-**💬 Discord:** soon 
-
-
-### 💡 **Always ready for:**
 - 🚀 New project collaborations 📚 Knowledge sharing sessions   💼 Internship opportunities 🤝 Mentorship connections
 
----
 
 <img src="https://komarev.com/ghpvc/?username=codevory&style=for-the-badge&color=58A6FF" alt="Profile Views" /> <br>
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/shahijahan01) 

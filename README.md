@@ -13,9 +13,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahijahan.codes@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahijahan-pedhar/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codevory)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/shahijahanq)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codevory)
 
 </div>
 
@@ -28,8 +26,8 @@ const shahijahan = {
     alias: "Codevory",
     location: "Jammu & Kashmir, India",
     education: "Bachelors of Computer Applications @ Shoolini University",
-    currentFocus: ["Frontend Development", "JavaScript","React", "UI/UX Design"],
-    Next: ["Typescript", "Node.js", "Db"],
+    currentFocus: ["Frontend Development", "JavaScript","React","Typescript", "UI/UX Design"],
+    Next: ["Node.js", "Db"],
     philosophy: "Consistency > Intensity",
     openTo: ["Collaborations", "Internships", "Freelance Projects"],
     motto: "Learning by building real, useful projects"
@@ -37,7 +35,7 @@ const shahijahan = {
 ```
 
 ### 🎯 **Current Mission**
-- 🔨 **Practicing:** Javascript , React
+- 🔨 **Practicing:** Typescript , React
 - 🎨 **Exploring:** Modern UI patterns, responsive design, accessibility
 - 🚀 **Building:** Small but functional projects to solidify learning
 - 🤝 **Seeking:** Collaboration opportunities and internships
@@ -53,6 +51,8 @@ const shahijahan = {
 [![Tailwind CSS](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/cpp-007ACC?style=for-the-badge&logo=cpp&logoColor=61DAFB)
+
 
 ### **Tools & Environment**
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)

@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Shahijahan Pedhar
 
-### 🚀 Frontend Developer | 🎓 Bachelors of Computer applications @ Shoolini University
+### 🚀 Frontend Developer | Always Learnng | Always Experimenting
 ### 💡 Building with Purpose • Learning by Doing • Shipping Small Wins
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+in+Making;JavaScript+%7C+React+%7C+Typescript%7C+Tailwindcss;Building+Real-World+Projects;Open+to+Collaborations!" alt="Typing SVG" />
@@ -25,7 +25,7 @@
 const shahijahan = {
     alias: "Codevory",
     location: "Jammu & Kashmir, India",
-    education: "Bachelors of Computer Applications @ Shoolini University",
+    education: "Bachelors of Computer Applications",
     currentFocus: ["Frontend Development", "JavaScript","React","Typescript", "UI/UX Design"],
     Next: ["Node.js", "Db"],
     philosophy: "Consistency > Intensity",

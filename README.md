@@ -42,7 +42,7 @@ I build polished web interfaces with a strong focus on speed, maintainability, a
 
 - React 19, TypeScript, Redux Toolkit
 - Code splitting and bundle size reduction
-- Node.js, Express.js, MongoDB, SQLite
+- Node.js, Express.js, PostgreSQL, SQLite
 - Daily problem-solving and algorithmic challenges
 
       </td>
@@ -138,7 +138,7 @@ I build polished web interfaces with a strong focus on speed, maintainability, a
 <p>
   <img src="https://img.shields.io/badge/Node.js-Runtime-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-APIs-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Relational%20DB-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-Local%20Data-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Firebase-Auth%20%26%20Storage-FFCA28?style=flat-square&logo=firebase&logoColor=000" alt="Firebase" />
   <img src="https://img.shields.io/badge/Vite-Fast%20Builds-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
